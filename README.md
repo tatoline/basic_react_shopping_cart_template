@@ -1,5 +1,5 @@
 Basic React Shopping Cart Template
 
-![](https://github.com/tatoline/basic_react_shopping-cart_template/blob/master/view.gif)
+![](https://github.com/tatoline/basic_react_shopping_cart_template/blob/master/view.gif)
 
-![](https://github.com/tatoline/basic_react_shopping-cart_template/blob/master/view2.gif)
+![](https://github.com/tatoline/basic_react_shopping_-_cart_template/blob/master/view2.gif)
