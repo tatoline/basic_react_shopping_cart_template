@@ -1,0 +1,10 @@
+.card-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    color: #495057;
+    margin: 0.5em 0 1em 0;
+    font-size: 12px;
+    font-weight: 500;
+}
